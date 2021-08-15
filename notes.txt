@@ -1,0 +1,14 @@
+PAT = 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
+
+https://nodejs.org/dist/latest-v11.x/
+node-v11.15.0-linux-armv6l.tar.gz
+
+wget https://nodejs.org/dist/v8.9.0/node-v8.9.0-linux-armv6l.tar.gz
+
+tar -xzf node-v8.9.0-linux-armv6l.tar.gz
+
+cd node-v6.11.1-linux-armv6l/
+sudo cp -R * /usr/local/
+
+
+
